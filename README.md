@@ -1,8 +1,8 @@
 # 👋 Salut, moi c’est **Aliou BA**
 
-🎓 **Ingénierie Informatique | Data • IA • Développement Web**
-📍 Sénégal
-🔗 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/aliou1234)
+✨ **Bienvenue sur mon portfolio GitHub !**
+Ici, vous trouverez une sélection de mes projets en **Data**, **Intelligence Artificielle**, **Développement Backend** et **Systèmes d’information**.
+Chaque projet reflète mon parcours, mes compétences techniques et mon envie de résoudre des problèmes concrets à travers la technologie.
 
 ---
 
@@ -51,10 +51,10 @@ Mon objectif est de concevoir des **solutions utiles, structurées et évolutive
 
 ### ⚓ Application de réservation maritime – **Cosoma**
 
-🔗 **Repo GitHub** : [https://github.com/username/reservation-maritime](https://github.com/username/reservation-maritime)
+🔗 **Repo GitHub** : [https://github.com/username/reservation-maritime](https://github.com/aliou1234/App_Reservation)
 
 **Description :**
-Application web développée avec **Flask** pour gérer les réservations de traversées maritimes.
+Application web développée avec **Flask** pour gérer les réservations de billeterie maritimes.
 
 **Fonctionnalités clés :**
 
@@ -63,7 +63,7 @@ Application web développée avec **Flask** pour gérer les réservations de tra
 * Gestion des navires et catégories
 * Base de données relationnelle
 
-**Technologies :** Flask, Python, SQLite / PostgreSQL
+**Technologies :** Flask, Python / PostgreSQL
 
 ---
 
@@ -138,9 +138,9 @@ Entraînement d’un modèle **YOLO v5** pour la détection de personnes portant
 
 ## 📫 Me contacter
 
-* 📧 Email : [your.email@gmail.com](mailto:baaliou22ba@gmail.com)
-* 💼 LinkedIn : [https://www.linkedin.com/](https://www.linkedin.com/in/aliou-ba-791558360/)
-* 💻 GitHub : [https://github.com/](https://github.com/aliou1234)
+* 📧 Email : [your.email@gmail.com](mailto:your.email@gmail.com)
+* 💼 LinkedIn : [https://www.linkedin.com/](https://www.linkedin.com/)
+* 💻 GitHub : [https://github.com/](https://github.com/)
 
 ---
 
