@@ -119,7 +119,7 @@ Mise en place d’un **cube OLAP** à partir de données relationnelles et analy
 
 ### 👁️ Computer Vision – Détection de masques (YOLO v5)
 
-🔗 **Repo GitHub** : [https://github.com/username/yolo-mask-detection](https://github.com/username/yolo-mask-detection)
+🔗 **Repo GitHub** : [https://github.com/username/yolo-mask-detection](https://github.com/aliou1234/computer-vision-examen)
 
 **Description :**
 Entraînement d’un modèle **YOLO v5** pour la détection de personnes portant ou non un masque.
