@@ -139,8 +139,8 @@ Entraînement d’un modèle **YOLO v5** pour la détection de personnes portant
 ## 📫 Me contacter
 
 * 📧 Email : [your.email@gmail.com](mailto:baaliou22ba@gmail.com)
-* * 💼 LinkedIn : [https://www.linkedin.com/](https://www.linkedin.com/in/aliou-ba-791558360/)
-* * 💻 GitHub : [https://github.com/](https://github.com/aliou1234/)
+* 💼 LinkedIn : [https://www.linkedin.com/](https://www.linkedin.com/in/aliou-ba-791558360/)
+* 💻 GitHub : [https://github.com/](https://github.com/aliou1234/)
 ---
 
 ⭐ *N’hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité.*
